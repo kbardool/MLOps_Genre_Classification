@@ -18,7 +18,7 @@ data:
   # Threshold for Kolomorov-Smirnov test
   ks_alpha: 0.05
   test_size: 0.3
-  val_size: 0.3
+  val_size:  0.3
   # Stratify according to the target when splitting the data
   # in train/test or in train/val
   stratify: genre

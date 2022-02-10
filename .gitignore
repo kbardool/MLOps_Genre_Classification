@@ -110,6 +110,11 @@ ENV/
 env.bak/
 venv.bak/
 
+*/wandb/
+*/artifacts/
+mlruns/
+outputs/
+
 # Spyder project settings
 .spyderproject
 .spyproject
